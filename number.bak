@@ -1,0 +1,7 @@
+Channel: SIP/<TARGET>@<SIP-PROVIDER>
+CallerID: 302-000-0001
+MaxRetries: 2
+RetryTime: 3
+Context: radcontest
+Extension: s
+Priority: 1
